@@ -29,6 +29,15 @@ body {
   max-width: 400px;
 }
 
+.panel-container strong {
+  line-height: 20px;
+}
+
+.ratings-container {
+  display: flex;
+  margin: 20px 0;
+}
+
 .btn {
   background-color: #302d2b;
   color: #fff;
